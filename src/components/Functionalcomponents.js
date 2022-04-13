@@ -1,7 +1,7 @@
 import React from "react";
 
 function FunctionalComponet(){
-    return <p>jfrom functional compf</p>
+    return <h1>jfrom functional compf</h1>
 
 }
 
